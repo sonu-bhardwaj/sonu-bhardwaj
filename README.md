@@ -1,17 +1,40 @@
-# Hi 👋, I'm Sonu Bhardwaj
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonu%20Bhardwaj&fontSize=50&color=gradient" />
+</p>
 
-### 🚀 Software Developer | Full Stack Enthusiast | Problem Solver
+<h1 align="center">Hi 👋, I'm Sonu Bhardwaj</h1>
+
+<h3 align="center">Software Developer | Full Stack Enthusiast | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## 🚀 About Me
 
 🎓 B.Tech in Computer Science Engineering
 
-🌱 Currently learning:
+💻 Passionate about Backend Development, Full Stack Applications, and Problem Solving
+
+🌱 Currently Learning:
 
 * Data Structures & Algorithms
-* Backend Development
 * System Design
+* Backend Development
 * Salesforce
 
-💻 Tech Stack
+🎯 2026 Goals:
+
+* Solve 300+ DSA Problems
+* Build Production-Ready Projects
+* Contribute to Open Source
+* Secure a Software Developer Role
+
+---
+
+## 🛠️ Tech Stack
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -19,25 +42,36 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sonu-bhardwaj\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj\&layout=compact\&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🔥 GitHub Streak
 
-* Solving Data Structures & Algorithms problems
-* Building scalable backend applications
-* Improving system design skills
-* Learning cloud technologies
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonu-bhardwaj&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-bhardwaj&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -45,15 +79,33 @@
 
 ### 🌍 Earthquake Visualizer
 
-Real-time earthquake tracking application built using React, Vite and Leaflet.
+Real-time earthquake monitoring application built with React, Vite, and Leaflet.
 
 ### 🛒 Amazon Clone
 
-Responsive e-commerce UI with modern frontend technologies.
+Responsive e-commerce frontend inspired by Amazon.
 
 ### 🤟 Sign Language Recognition
 
 Machine Learning project for recognizing sign language gestures.
+
+### ⚙️ Backend Development Projects
+
+REST APIs, Authentication Systems, MySQL, Redis, and Node.js applications.
+
+---
+
+## 🎯 Current Focus
+
+✔ Data Structures & Algorithms
+
+✔ Backend Development
+
+✔ System Design
+
+✔ Open Source Contributions
+
+✔ Building Scalable Applications
 
 ---
 
@@ -64,4 +116,6 @@ Machine Learning project for recognizing sign language gestures.
 
 ---
 
-⭐ Always learning, building and improving.
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
