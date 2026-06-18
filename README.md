@@ -46,13 +46,23 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 
 ## 🛠️ Tech Stack
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-</p>
+</p> -->
+<div align="center">
+
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70" height="70" />
+<img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="redis" width="70" height="70" />
+
+</div>
 
 ---
 
