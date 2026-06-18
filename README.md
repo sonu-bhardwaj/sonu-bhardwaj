@@ -66,11 +66,10 @@
 </p>
 
 ---
-
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-bhardwaj&theme=tokyo-night"/>
+  <img src="https://raw.githubusercontent.com/sonu-bhardwaj/sonu-bhardwaj/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
