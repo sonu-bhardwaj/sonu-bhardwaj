@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=while(!success)+%7B+learn();+build();+improve();+%7D" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonu%20Bhardwaj&fontSize=50&color=gradient" />
 </p>
@@ -8,6 +8,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sonu-bhardwaj/count.svg" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
