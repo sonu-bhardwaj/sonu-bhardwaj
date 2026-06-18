@@ -46,23 +46,32 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 
 ## 🛠️ Tech Stack
 
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-</p> 
+<h2 align="center">⚡ Tech Stack</h2>
+
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="nodejs" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/redis-icon.svg" alt="redis" width="70" height="70" />
+<!-- Animated Icons -->
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+
+<br><br>
+
+<!-- Main Skills -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis,html,css,tailwind,bootstrap,git,github,docker,vscode&theme=dark" />
+
+<br><br>
+
+<!-- Extra Badges -->
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
 </div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:2563eb,100:38bdf8&section=footer"/>
 
 ---
 
