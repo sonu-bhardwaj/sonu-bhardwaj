@@ -108,7 +108,7 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 | Project | Tech Stack | Description |
 |----------|-----------|-------------|
 | 🌍 Earthquake Visualizer | React, Vite, Leaflet | Real-time earthquake monitoring |
-| 💼 Portfolio | HTML, CSS, JavaScript | Responsive e-commerce frontend |
+| 💼 Portfolio | HTML, CSS, JavaScript | Personal Portfolio |
 | ⚙️ Backend APIs | Node.js, MySQL, Redis | Authentication & REST APIs |
 | 📚 DSA Repository | C++ | Data Structures & Algorithms practice |
 
