@@ -46,9 +46,6 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 
 ## 🛠️ Tech Stack
 
-
-<h2 align="center">⚡ Tech Stack</h2>
-
 <div align="center">
 
 <!-- Animated Icons -->
