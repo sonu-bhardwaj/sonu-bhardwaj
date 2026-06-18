@@ -98,7 +98,8 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 | Project | Tech Stack | Description |
 |----------|-----------|-------------|
 | 🌍 Earthquake Visualizer | React, Vite, Leaflet | Real-time earthquake monitoring |
-| 🛒 Amazon Clone | HTML, CSS, JavaScript | Responsive e-commerce frontend |
+| <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/5b3384a4-b4af-4f4d-ac32-781e488f0570" />
+ Portfolio | HTML, CSS, JavaScript | Responsive e-commerce frontend |
 | ⚙️ Backend APIs | Node.js, MySQL, Redis | Authentication & REST APIs |
 | 📚 DSA Repository | C++ | Data Structures & Algorithms practice |
 
