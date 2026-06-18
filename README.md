@@ -131,3 +131,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+</p>
