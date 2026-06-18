@@ -1,27 +1,46 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:312E81,100:2563EB&text=Sonu%20Bhardwaj&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20C++%20DSA%20Enthusiast&descAlignY=58"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm Sonu Bhardwaj</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=Backend+Developer;C%2B%2B+DSA+Enthusiast;Node.js+%7C+MySQL+%7C+Redis;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonu%20Bhardwaj&fontSize=50&color=gradient" />
 </p>
 
+<h1 align="center">Hi 👋, I'm Sonu Bhardwaj</h1>
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&style=for-the-badge&color=blueviolet" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
+
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<h3 align="center">
+Software Developer | Full Stack Enthusiast | Problem Solver
+</h3>
 
 ---
 
-# 🚀 ABOUT ME
+## 🚀 About Me
 
-| 💻 Developer | 🎯 Goals |
-|-------------|----------|
-| Backend Developer | 300+ DSA Problems |
-| Full Stack Enthusiast | Open Source Contributions |
-| Problem Solver | Software Developer Role |
-| Salesforce Learner | Production Ready Projects |
+🎓 B.Tech in Computer Science Engineering
+
+💻 Passionate about Backend Development, Full Stack Applications, and Problem Solving
+
+🌱 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- Salesforce
+
+🎯 2026 Goals
+
+- Solve 300+ DSA Problems
+- Build Production-Ready Projects
+- Contribute to Open Source
+- Secure a Software Developer Role
 
 ---
 
@@ -45,100 +64,95 @@
 
 ---
 
-# 🌱 CURRENTLY LEARNING
+## 📊 GitHub Statistics
 
-```text
-🟣 Data Structures & Algorithms
-🟣 System Design
-🟣 Backend Development
-🟣 Database Optimization
-🟣 Redis Caching
-🟣 REST API Design
-```
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonu-bhardwaj&theme=tokyonight"/>
+</p>
 
 ---
 
-# 🚀 FEATURED PROJECTS
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sonu-bhardwaj&theme=tokyonight"/>
+</p>
+
+---
+
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/sonu-bhardwaj" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sonu-bhardwaj/sonu-bhardwaj/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 | Project | Tech Stack | Description |
 |----------|-----------|-------------|
 | 🌍 Earthquake Visualizer | React, Vite, Leaflet | Real-time earthquake monitoring |
-| 🔐 Authentication API | Node.js, Redis, MySQL | JWT Authentication & RBAC |
-| 📚 DSA Repository | C++ | Data Structures & Algorithms Practice |
-| 🛒 Portfolio Website | HTML, CSS, JavaScript | Responsive Frontend |
+| 💼 Portfolio | HTML, CSS, JavaScript | Responsive e-commerce frontend |
+| ⚙️ Backend APIs | Node.js, MySQL, Redis | Authentication & REST APIs |
+| 📚 DSA Repository | C++ | Data Structures & Algorithms practice |
 
 ---
 
-# 📊 GITHUB DASHBOARD
+## 🎯 Current Focus
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight"/>
-</p>
+✔ Data Structures & Algorithms
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sonu-bhardwaj&theme=tokyonight"/>
-</p>
+✔ Backend Development
 
----
+✔ System Design
 
-# 📈 CONTRIBUTION GRAPH
+✔ Open Source Contributions
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-bhardwaj&theme=tokyo-night"/>
-</p>
+✔ Building Scalable Applications
 
 ---
 
-# 🏆 GITHUB TROPHIES
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sonu-bhardwaj&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/sonu-bhardwaj/sonu-bhardwaj/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🎯 CURRENT FOCUS
-
-```text
-📚 DSA                  ███████░░░ 70%
-⚙️ Backend Development  ████████░░ 80%
-🏗️ System Design        ███░░░░░░░ 30%
-🌍 Open Source          ██░░░░░░░░ 20%
-```
-
----
-
-# 🌐 CONNECT WITH ME
+## 📫 Connect With Me
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sonubhardwaj/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sonubhardwaj/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Sonu%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:sbhardwaj1315@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-sbhardwaj1315%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
 
----
-
 <p align="center">
-
-💡 *"First, solve the problem. Then, write the code."*
-
+  <a href="https://www.linkedin.com/in/sonubhardwaj/">💼 LinkedIn Profile</a>
+  •
+  <a href="mailto:sbhardwaj1315@gmail.com">📧 sbhardwaj1315@gmail.com</a>
 </p>
+
+---
 
 <p align="center">
 ⭐ Thanks for visiting my profile ⭐
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+</p>
+
