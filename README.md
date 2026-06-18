@@ -1,4 +1,4 @@
-```md
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonu%20Bhardwaj&fontSize=50&color=gradient" />
 </p>
@@ -144,4 +144,4 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 </p>
-```
+
