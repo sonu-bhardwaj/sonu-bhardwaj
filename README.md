@@ -111,8 +111,17 @@ REST APIs, Authentication Systems, MySQL, Redis, and Node.js applications.
 
 ## 📫 Connect With Me
 
-* LinkedIn
-* Email
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sonubhardwaj/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Sonu%20Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:sbhardwaj1315@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sbhardwaj1315%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
