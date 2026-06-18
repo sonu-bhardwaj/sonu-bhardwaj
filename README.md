@@ -60,6 +60,14 @@
 </p>
 
 ---
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
@@ -77,23 +85,11 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 GitHub Trophies
 
-### 🌍 Earthquake Visualizer
-
-Real-time earthquake monitoring application built with React, Vite, and Leaflet.
-
-### 🛒 Amazon Clone
-
-Responsive e-commerce frontend inspired by Amazon.
-
-### 🤟 Sign Language Recognition
-
-Machine Learning project for recognizing sign language gestures.
-
-### ⚙️ Backend Development Projects
-
-REST APIs, Authentication Systems, MySQL, Redis, and Node.js applications.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu-bhardwaj&theme=tokyonight&row=1&column=7" />
+</p>
 
 ---
 
