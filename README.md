@@ -6,14 +6,16 @@
 <h1 align="center">Hi 👋, I'm Sonu Bhardwaj</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
-<h3 align="center">Software Developer | Full Stack Enthusiast | Problem Solver</h3>
+<h3 align="center">
+Software Developer | Full Stack Enthusiast | Problem Solver
+</h3>
 
 ---
 
@@ -83,7 +85,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sonu-bhardwaj/sonu-bhardwaj/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/sonu-bhardwaj/sonu-bhardwaj/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
