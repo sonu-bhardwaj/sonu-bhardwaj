@@ -48,7 +48,7 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mysql,redis" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,react,nodejs,express,mysql,redis" />
 
 <br>
 
