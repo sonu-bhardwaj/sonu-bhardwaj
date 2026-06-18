@@ -52,17 +52,6 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight" />
-</p>
-
----
-## 📊 GitHub Statistics
-
-<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight" />
 </p>
