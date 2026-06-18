@@ -52,7 +52,7 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,github,docker,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,github,postman,docker,vscode" />
 
 <br><br>
 
