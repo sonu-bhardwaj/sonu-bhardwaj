@@ -89,7 +89,6 @@
 | ---------------------------- | ------------------------ | ------------------------------- |
 | 🌍 Earthquake Visualizer     | React, Vite, Leaflet     | Real-time earthquake monitoring |
 | 🛒 Amazon Clone              | HTML, CSS, JavaScript    | Responsive e-commerce frontend  |
-| 🤟 Sign Language Recognition | Python, Machine Learning | Gesture recognition system      |
 | ⚙️ Backend APIs              | Node.js, MySQL, Redis    | Authentication & REST APIs      |
 
 ---
