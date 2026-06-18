@@ -46,13 +46,13 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 
 ## 🛠️ Tech Stack
 
-<!-- <p align="center">
+ <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
-</p> -->
+</p> 
 <div align="center">
 
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="70" height="70" />
