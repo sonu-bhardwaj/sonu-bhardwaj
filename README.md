@@ -69,7 +69,7 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight"/>
-   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonu-bhardwaj&theme=algolia&utcOffset=8"/>
+   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonu-bhardwaj&theme=tokyonight&utcOffset=8"/>
 </p>
 
 <p align="center">
