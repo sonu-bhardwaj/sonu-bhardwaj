@@ -69,10 +69,13 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://ghchart.rshah.org/sonu-bhardwaj" />
 </p>
+
 ---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
