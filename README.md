@@ -1,92 +1,80 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,50:2563eb,100:7c3aed&text=Sonu%20Bhardwaj&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20C++%20DSA%20Enthusiast&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:312E81,100:2563EB&text=Sonu%20Bhardwaj&fontColor=FFFFFF&fontSize=55&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20|%20C++%20DSA%20Enthusiast&descAlignY=58"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sonu Bhardwaj</h1>
+<h1 align="center">👋 Hi, I'm Sonu Bhardwaj</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=Backend+Developer;Software+Developer;C%2B%2B+DSA+Enthusiast;Node.js+%7C+MySQL+%7C+Redis;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=800&lines=Backend+Developer;C%2B%2B+DSA+Enthusiast;Node.js+%7C+MySQL+%7C+Redis;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 🚀 ABOUT ME
 
-<table>
-<tr>
-<td>
-
-🎓 B.Tech in Computer Science Engineering
-
-💻 Backend Developer & Problem Solver
-
-🌱 Currently learning:
-- Data Structures & Algorithms
-- System Design
-- Backend Architecture
-- Salesforce
-
-🎯 Goals:
-- 300+ DSA Problems
-- Production Ready Projects
-- Open Source Contributions
-- Software Developer Role
-
-</td>
-
-<td>
-
-```cpp
-while(!success)
-{
-    learn();
-    code();
-    improve();
-}
-```
-
-</td>
-</tr>
-</table>
+| 💻 Developer | 🎯 Goals |
+|-------------|----------|
+| Backend Developer | 300+ DSA Problems |
+| Full Stack Enthusiast | Open Source Contributions |
+| Problem Solver | Software Developer Role |
+| Salesforce Learner | Production Ready Projects |
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ TECH STACK
 
 <div align="center">
 
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" height="70" />
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" height="70" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mysql,redis" />
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,redis,html,css,tailwind,bootstrap,git,github,docker,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,github,docker,vscode" />
 
 <br><br>
 
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🌱 CURRENTLY LEARNING
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight"/>
-</p>
+```text
+🟣 Data Structures & Algorithms
+🟣 System Design
+🟣 Backend Development
+🟣 Database Optimization
+🟣 Redis Caching
+🟣 REST API Design
+```
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 FEATURED PROJECTS
+
+| Project | Tech Stack | Description |
+|----------|-----------|-------------|
+| 🌍 Earthquake Visualizer | React, Vite, Leaflet | Real-time earthquake monitoring |
+| 🔐 Authentication API | Node.js, Redis, MySQL | JWT Authentication & RBAC |
+| 📚 DSA Repository | C++ | Data Structures & Algorithms Practice |
+| 🛒 Portfolio Website | HTML, CSS, JavaScript | Responsive Frontend |
+
+---
+
+# 📊 GITHUB DASHBOARD
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight"/>
+</p>
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=sonu-bhardwaj&theme=tokyonight"/>
@@ -94,7 +82,7 @@ while(!success)
 
 ---
 
-# 📈 Contribution Graph
+# 📈 CONTRIBUTION GRAPH
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-bhardwaj&theme=tokyo-night"/>
@@ -102,7 +90,7 @@ while(!success)
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=sonu-bhardwaj&theme=tokyonight&row=1&column=7"/>
@@ -110,7 +98,7 @@ while(!success)
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/sonu-bhardwaj/sonu-bhardwaj/output/github-contribution-grid-snake.svg"/>
@@ -118,18 +106,7 @@ while(!success)
 
 ---
 
-# 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-|----------|-----------|-------------|
-| 🌍 Earthquake Visualizer | React, Vite, Leaflet | Real-time earthquake monitoring |
-| 💼 Portfolio Website | HTML, CSS, JavaScript | Responsive frontend project |
-| ⚙️ Backend APIs | Node.js, MySQL, Redis | Authentication & REST APIs |
-| 📚 DSA Repository | C++ | Data Structures & Algorithms Practice |
-
----
-
-# 🎯 Current Focus
+# 🎯 CURRENT FOCUS
 
 ```text
 📚 DSA                  ███████░░░ 70%
@@ -140,16 +117,16 @@ while(!success)
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sonubhardwaj/">
-<img src="https://img.shields.io/badge/LinkedIn-Sonu_Bhardwaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sbhardwaj1315@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-sbhardwaj1315%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
