@@ -1,4 +1,4 @@
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=while(!success)+%7B+learn();+build();+improve();+%7D" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonu%20Bhardwaj&fontSize=50&color=gradient" />
 </p>
