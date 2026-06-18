@@ -9,9 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/sonu-bhardwaj/count.svg" />
-</p>
+
 
 
 <p align="center">
