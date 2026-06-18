@@ -1,89 +1,123 @@
+```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonu%20Bhardwaj&fontSize=50&color=gradient" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sonu Bhardwaj</h1>
 
-<h3 align="center">Software Developer | Full Stack Enthusiast | Problem Solver</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" />
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 🎓 B.Tech in Computer Science Engineering
 
 💻 Passionate about Backend Development, Full Stack Applications, and Problem Solving
 
-🌱 Currently Learning:
+🌱 Currently Learning
 
-* Data Structures & Algorithms
-* System Design
-* Backend Development
-* Salesforce
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- Salesforce
 
-🎯 2026 Goals:
+🎯 2026 Goals
 
-* Solve 300+ DSA Problems
-* Build Production-Ready Projects
-* Contribute to Open Source
-* Secure a Software Developer Role
-
----
-
-## 🛠️ Tech Stack
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=for-the-badge)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+- Solve 300+ DSA Problems
+- Build Production-Ready Projects
+- Contribute to Open Source
+- Secure a Software Developer Role
 
 ---
 
-## 📊 GitHub Statistics
+# 💻 Coding Profiles
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonu-bhardwaj&theme=tokyonight" />
+
+<a href="https://github.com/sonu-bhardwaj">
+<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sonubhardwaj/">
+<img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sbhardwaj1315@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonu-bhardwaj&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,mongodb,express,react,nodejs,mysql,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-bhardwaj&theme=tokyo-night" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonu-bhardwaj&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonu-bhardwaj&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonu-bhardwaj&theme=tokyonight&row=1&column=7" />
+  <img src="https://streak-stats.demolab.com?user=sonu-bhardwaj&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-bhardwaj&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonu-bhardwaj&theme=tokyonight&row=1&column=7"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+|----------|-----------|-------------|
+| 🌍 Earthquake Visualizer | React, Vite, Leaflet | Real-time earthquake monitoring application |
+| 🛒 Amazon Clone | HTML, CSS, JavaScript | Responsive e-commerce frontend |
+| 🤟 Sign Language Recognition | Python, Machine Learning | Sign language gesture recognition |
+| ⚙️ Backend APIs | Node.js, MySQL, Redis | Authentication systems and REST APIs |
+
+---
+
+# 🎯 Current Focus
 
 ✔ Data Structures & Algorithms
 
@@ -97,7 +131,14 @@
 
 ---
 
-## 📫 Connect With Me
+# 💡 Developer Mindset
+
+> Consistency beats intensity.  
+> Building, Learning, Improving — Every Day.
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -106,13 +147,24 @@
 </a>
 
 <a href="mailto:sbhardwaj1315@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sbhardwaj1315%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-sbhardwaj1315%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sonubhardwaj/">💼 LinkedIn Profile</a>
+  •
+  <a href="mailto:sbhardwaj1315@gmail.com">📧 sbhardwaj1315@gmail.com</a>
 </p>
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile ⭐
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
+</p>
+```
