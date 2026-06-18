@@ -1,21 +1,18 @@
-```md
+# Hi 👋, I'm Sonu Bhardwaj
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonu%20Bhardwaj&fontSize=50&color=gradient" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Sonu Bhardwaj</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Full+Stack+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sonu-bhardwaj&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
+<h3 align="center">Software Developer | Full Stack Enthusiast | Problem Solver</h3>
+
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎓 B.Tech in Computer Science Engineering
 
@@ -23,41 +20,21 @@
 
 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- System Design
-- Backend Development
-- Salesforce
+* Data Structures & Algorithms
+* System Design
+* Backend Development
+* Salesforce
 
 🎯 2026 Goals
 
-- Solve 300+ DSA Problems
-- Build Production-Ready Projects
-- Contribute to Open Source
-- Secure a Software Developer Role
+* Solve 300+ DSA Problems
+* Build Production-Ready Projects
+* Contribute to Open Source
+* Secure a Software Developer Role
 
 ---
 
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://github.com/sonu-bhardwaj">
-<img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sonubhardwaj/">
-<img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:sbhardwaj1315@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,mongodb,express,react,nodejs,mysql,git,github,vscode" />
@@ -69,7 +46,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonu-bhardwaj&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
@@ -82,7 +59,7 @@
 
 ---
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sonu-bhardwaj&theme=tokyonight"/>
@@ -90,7 +67,7 @@
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonu-bhardwaj&theme=tokyo-night"/>
@@ -98,7 +75,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sonu-bhardwaj&theme=tokyonight&row=1&column=7"/>
@@ -106,18 +83,18 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Tech Stack | Description |
-|----------|-----------|-------------|
-| 🌍 Earthquake Visualizer | React, Vite, Leaflet | Real-time earthquake monitoring application |
-| 🛒 Amazon Clone | HTML, CSS, JavaScript | Responsive e-commerce frontend |
-| 🤟 Sign Language Recognition | Python, Machine Learning | Sign language gesture recognition |
-| ⚙️ Backend APIs | Node.js, MySQL, Redis | Authentication systems and REST APIs |
+| Project                      | Tech Stack               | Description                     |
+| ---------------------------- | ------------------------ | ------------------------------- |
+| 🌍 Earthquake Visualizer     | React, Vite, Leaflet     | Real-time earthquake monitoring |
+| 🛒 Amazon Clone              | HTML, CSS, JavaScript    | Responsive e-commerce frontend  |
+| 🤟 Sign Language Recognition | Python, Machine Learning | Gesture recognition system      |
+| ⚙️ Backend APIs              | Node.js, MySQL, Redis    | Authentication & REST APIs      |
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
 ✔ Data Structures & Algorithms
 
@@ -131,14 +108,7 @@
 
 ---
 
-# 💡 Developer Mindset
-
-> Consistency beats intensity.  
-> Building, Learning, Improving — Every Day.
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 
@@ -167,4 +137,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 </p>
-```
