@@ -1,10 +1,12 @@
-# Hi 👋, I'm Sonu Bhardwaj
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" />
-</p>
-
+```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Sonu%20Bhardwaj&fontSize=50&color=gradient" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Sonu Bhardwaj</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;DSA+Enthusiast;Open+Source+Learner" />
 </p>
 
 <p align="center">
@@ -23,24 +25,24 @@
 
 🌱 Currently Learning
 
-* Data Structures & Algorithms
-* System Design
-* Backend Development
-* Salesforce
+- Data Structures & Algorithms
+- System Design
+- Backend Development
+- Salesforce
 
 🎯 2026 Goals
 
-* Solve 300+ DSA Problems
-* Build Production-Ready Projects
-* Contribute to Open Source
-* Secure a Software Developer Role
+- Solve 300+ DSA Problems
+- Build Production-Ready Projects
+- Contribute to Open Source
+- Secure a Software Developer Role
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,mongodb,express,react,nodejs,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,mongodb,mysql,git,github,docker,vscode" />
 </p>
 
 <p align="center">
@@ -70,6 +72,8 @@
 
 ---
 
+## 📅 Contribution Calendar
+
 <p align="center">
   <img src="https://ghchart.rshah.org/sonu-bhardwaj" />
 </p>
@@ -84,14 +88,14 @@
 
 ---
 
-
 ## 🚀 Featured Projects
 
-| Project                      | Tech Stack               | Description                     |
-| ---------------------------- | ------------------------ | ------------------------------- |
-| 🌍 Earthquake Visualizer     | React, Vite, Leaflet     | Real-time earthquake monitoring |
-| 🛒 Amazon Clone              | HTML, CSS, JavaScript    | Responsive e-commerce frontend  |
-| ⚙️ Backend APIs              | Node.js, MySQL, Redis    | Authentication & REST APIs      |
+| Project | Tech Stack | Description |
+|----------|-----------|-------------|
+| 🌍 Earthquake Visualizer | React, Vite, Leaflet | Real-time earthquake monitoring |
+| 🛒 Amazon Clone | HTML, CSS, JavaScript | Responsive e-commerce frontend |
+| ⚙️ Backend APIs | Node.js, MySQL, Redis | Authentication & REST APIs |
+| 📚 DSA Repository | C++ | Data Structures & Algorithms practice |
 
 ---
 
@@ -138,6 +142,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient"/>
-</p>
+```
