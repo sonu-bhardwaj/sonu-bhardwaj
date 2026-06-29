@@ -26,7 +26,7 @@ Software Developer | Full Stack Enthusiast | Problem Solver
 
 🎓 B.Tech in Computer Science Engineering.
 
-💻 Passionate about Backend Development, Full Stack Applications, and Problem Solving.
+💻 Passionate about Backend Development, Full Stack Applications, and Problem Solving
 
 🌱 Currently Learning
 
